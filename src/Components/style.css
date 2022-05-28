@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box; 
+}
+
+body{
+    background: rgb(43, 146, 180);
+}
+
+#navbarNavDropdown{
+    display: flex;flex-direction: row;
+    justify-content: space-around;text-decoration: none;
+   
+}
+
+.nav-link{
+    font-size: 25px;
+  
+}
+
+
+th{
+    font-size: 23px;width: 400px;
+}
+tr{
+    width: 400px;text-align: center;
+}
+
+.add_student{
+    width: 150px;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    border: 2px ridge blue;
+    margin: 20px;
+    margin-left: 1200px;
+}
+ul{
+    list-style-type: none;
+   
+}
